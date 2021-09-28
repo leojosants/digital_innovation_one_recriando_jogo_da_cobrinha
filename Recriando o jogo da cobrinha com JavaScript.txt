@@ -1,0 +1,10 @@
+
+Recriando o jogo da cobrinha com JavaScript
+
+- Parte I - OK
+- Parte II - OK
+- Parte III - OK
+- Parte IV - OK
+- Parte V - OK
+- Parte VI
+
